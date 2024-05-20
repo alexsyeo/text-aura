@@ -66,12 +66,12 @@ features:
 
     - title: Continuous Updates
       description: Continuous updates with new content, features, and improvements.
-      fontawesome_icon_name: rotate-right
+      fontawesome_icon_name: rotate
 
 # Theme Settings
 topbar_color: "#000000"
-topbar_transparency: 0.1
-topbar_title_color: "#ffffff"
+topbar_transparency: 0.2
+topbar_title_color: "#fcfcfc"
 
 cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
 cover_overlay_color: "#363b3d"
@@ -81,7 +81,7 @@ device_color: black # Set to: blue, black, yellow, coral or white.
 
 body_background_color: "#fbdf56ff"
 
-link_color: "#1d63ea"
+link_color: "#0661ff"
 
 app_title_color: "#ffffff"
 app_price_color: "#ffffff"
