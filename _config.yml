@@ -24,17 +24,21 @@ your_name: Alex Yeo
 # your_city: Copenhagen
 email_address: alexsyeo@gmail.com
 # facebook_username:
-instagram_username: alexsyeo
+# instagram_username: alexsyeo
 # twitter_username: ebaehr
-github_username: alexsyeo
+# github_username: alexsyeo
 youtube_username:
 # mastodon_link: https://mastodon.social/@ebaehr
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: GitHub Pages Jekyll Theme
-      description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-      fontawesome_icon_name: magic
+    - title: Simulate Conversations
+      description: Simulate realistic conversations covering a wide range of scenarios and topics.
+      fontawesome_icon_name: comments
+
+    - title: Real Time Feedback
+      description: Get real time feedback with useful explanations and suggestions.
+      fontawesome_icon_name: circle-exclamation
 
     - title: iPhone Device Preview
       description: Preview your app in the context of an iPhone device. Five different device colors included.
