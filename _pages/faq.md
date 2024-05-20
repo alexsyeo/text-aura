@@ -10,10 +10,10 @@ Frequently Asked Questions
 
 <br>
 
-# **How do you request a translation?**
+## **How do you request a translation?**
 
 Just tap Hendrix while he isn't talking or thinking and type what you want him to translate.
 
-# **How do you translate using different variations?**
+## **How do you translate using different variations?**
 
 You can specify directly in the translation text if you want a particular variation of the word or phrase. For example, if you want an informal version of "Hello", you can type "Hello (informal)" and the translation should be "안뇽".
