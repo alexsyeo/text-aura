@@ -25,56 +25,48 @@ your_name: Alex Yeo
 email_address: alexsyeo@gmail.com
 # facebook_username:
 # instagram_username: alexsyeo
+linkedin_username: alexsyeo
 # twitter_username: ebaehr
 # github_username: alexsyeo
 youtube_username:
-# mastodon_link: https://mastodon.social/@ebaehr
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
+    - title: Free Trial
+      description: Try out the app for free with no limitations for 7 days.
+      fontawesome_icon_name: play-circle
+
     - title: Simulate Conversations
-      description: Simulate realistic conversations covering a wide range of scenarios and topics.
+      description: Simulate realistic conversations covering hundreds of scenarios and topics.
       fontawesome_icon_name: comments
 
     - title: Real Time Feedback
-      description: Get real time feedback with useful explanations and suggestions.
-      fontawesome_icon_name: circle-exclamation
-
-    - title: iPhone Device Preview
-      description: Preview your app in the context of an iPhone device. Five different device colors included.
-      fontawesome_icon_name: mobile
-
-    - title: Video Support
-      description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-      fontawesome_icon_name: play-circle
-
-    - title: Automatic Icon and Metadata
-      description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-      fontawesome_icon_name: sync
-
-    - title: Easy to Tweak
-      description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-      fontawesome_icon_name: adjust
-
-    - title: Feature List
-      description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-      fontawesome_icon_name: star
-
-    - title: Smart App Banner
-      description: Display a smart app banner on iOS devices.
-      fontawesome_icon_name: arrow-alt-circle-down
-
-    - title: Social Links
-      description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-      fontawesome_icon_name: link
-
-    - title: FontAwesome Support
-      description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+      description: Get real time feedback with useful explanations and suggestions, covering grammar, vocabulary, and more.
       fontawesome_icon_name: info-circle
 
-    - title: # New Feature Title
-      description: # New Feature Description
-      fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    - title: On-Demand Translations
+      description: Get translations for any word or phrase with audio pronunciation.
+      fontawesome_icon_name: language
+
+    - title: Realistic Voices
+      description: Listen to realistic voices that resemble native Korean speakers.
+      fontawesome_icon_name: volume-up
+
+    - title: Premade Flashcards
+      description: Hundreds of premade flashcards across all modules so you can learn the essential vocabulary for each topic.
+      fontawesome_icon_name: list
+
+    - title: Automatic Flashcard Generation
+      description: Automatically generate flashcards based on real time feedback and translations.
+      fontawesome_icon_name: magic
+
+    - title: Direct Communication Line with Developer
+      description: Ability to communicate directly with the developer for support, feedback, and more.
+      fontawesome_icon_name: envelope
+
+    - title: Continuous Updates
+      description: Continuous updates with new content, features, and improvements.
+      fontawesome_icon_name: refresh
 
 # Theme Settings
 topbar_color: "#000000"
