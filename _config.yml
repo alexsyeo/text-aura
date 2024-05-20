@@ -66,7 +66,7 @@ features:
 
     - title: Continuous Updates
       description: Continuous updates with new content, features, and improvements.
-      fontawesome_icon_name: arrow-rotate
+      fontawesome_icon_name: rotate
 
 # Theme Settings
 topbar_color: "#000000"
@@ -90,13 +90,13 @@ app_description_color: "#ffffff"
 feature_title_color: "#191919"
 feature_text_color: "#191919"
 
-feature_icons_foreground_color: "#1d63ea"
-feature_icons_background_color: "#e6e6e6"
+feature_icons_foreground_color: "#fcfcfc"
+feature_icons_background_color: "#191919"
 
-social_icons_foreground_color: "#666666"
-social_icons_background_color: "#e6e6e6"
+social_icons_foreground_color: "#fcfcfc"
+social_icons_background_color: "#191919"
 
-footer_text_color: "#666666"
+footer_text_color: "#191919"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
