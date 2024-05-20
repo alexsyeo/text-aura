@@ -66,7 +66,7 @@ features:
 
     - title: Continuous Updates
       description: Continuous updates with new content, features, and improvements.
-      fontawesome_icon_name: refresh
+      fontawesome_icon_name: arrow-rotate
 
 # Theme Settings
 topbar_color: "#000000"
