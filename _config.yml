@@ -37,19 +37,19 @@ features:
       fontawesome_icon_name: play-circle
 
     - title: Simulate Conversations
-      description: Simulate realistic conversations covering hundreds of scenarios and topics.
+      description: Realistic conversations spanning hundreds of scenarios and topics.
       fontawesome_icon_name: comments
 
     - title: Real Time Feedback
-      description: Get real time feedback with useful explanations and suggestions, covering grammar, vocabulary, and more.
+      description: Real time feedback with useful explanations and suggestions, covering grammar, vocabulary, and more.
       fontawesome_icon_name: info-circle
 
     - title: On-Demand Translations
-      description: Get translations for any word or phrase with audio pronunciation.
+      description: Immediate translations for any word or phrase with audio pronunciation.
       fontawesome_icon_name: language
 
     - title: Realistic Voices
-      description: Listen to realistic voices that resemble native Korean speakers.
+      description: Realistic voices that resemble native Korean speakers.
       fontawesome_icon_name: volume-up
 
     - title: Premade Flashcards
@@ -57,11 +57,11 @@ features:
       fontawesome_icon_name: list
 
     - title: Automatic Flashcard Generation
-      description: Automatically generate flashcards based on real time feedback and translations.
+      description: Automatically-generated flashcards based on real time feedback and translations.
       fontawesome_icon_name: magic
 
     - title: Direct Communication Line with Developer
-      description: Ability to communicate directly with the developer to request support, provide feedback, and more.
+      description: Direct communication line with the developer to request support, provide feedback, and more.
       fontawesome_icon_name: envelope
 
     - title: Continuous Updates
