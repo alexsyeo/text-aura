@@ -10,6 +10,10 @@ Frequently Asked Questions
 
 <br>
 
+## **How do I delete my account?**
+
+In the account tab (bottom right corner of home screen), scroll to the bottom and click "Delete Account". Then follow the instructions in the Delete Account screen to delete your account. In addition to deleting your account, this will also remove all data associated with your account.
+
 ## **How do you request a translation?**
 
 Just tap Hendrix while he isn't talking or thinking and type what you want him to translate.
