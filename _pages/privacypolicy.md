@@ -5,15 +5,9 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+May 29 2024
 
 # Privacy Policy
-
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-<br>
-
-## Introduction
 
 Welcome to Hello Hendrix! Your privacy is critically important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the “App”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
 
@@ -33,9 +27,7 @@ Information automatically collected when you access the App, such as your IP add
 
 Information about your mobile device, such as the device ID, model, and manufacturer, and information about the location of your device.
 
-<br>
-
-### How We Use Your Information
+## How We Use Your Information
 
 We use the information we collect in the following ways:
 
@@ -55,8 +47,6 @@ To send you updates, marketing communications, and other information that may be
 
 To comply with legal obligations, resolve disputes, and enforce our agreements.
 
-<br>
-
 ## Sharing Your Information
 
 We may share your information with third parties in the following situations:
@@ -73,13 +63,9 @@ We may disclose your information if required to do so by law or in response to v
 
 We may disclose your information for any other purpose with your consent.
 
-<br>
-
 ## Security of Your Information
 
 We use administrative, technical and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other types of misuse.
-
-<br>
 
 ## Your Privacy Rights
 
@@ -100,13 +86,9 @@ You can request that we delete your personal data.
 <br>
 To exercise any of these rights, please contact us at the information provided below.
 
-<br>
-
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-<br>
 
 ## Contact Us
 
