@@ -8,53 +8,108 @@ include_in_header: false
 August 1 2019
 
 # Privacy Policy
+
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+<br>
+
+## Introduction
+
+Welcome to Hello Hendrix! Your privacy is critically important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the “App”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
+
+## Information We Collect
+
+We may collect information about you in a variety of ways. The information we may collect via the App includes:
+
+### Personal Data
+
+Personally identifiable information, such as your name, email address, and other information that you voluntarily give to us when you register or use the App.
+
+### Usage Data
+
+Information automatically collected when you access the App, such as your IP address, browser type, operating system, access times, and the actions you take while using the app.
+
+### Device Information
+
+Information about your mobile device, such as the device ID, model, and manufacturer, and information about the location of your device.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### How We Use Your Information
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We use the information we collect in the following ways:
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### To provide and maintain our App
 
-<br>
+To operate and maintain the App, including troubleshooting, data analysis, testing, system maintenance, support, and reporting.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### To improve our App
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+To understand and analyze how you use our App, to develop new products, services, features, and functionality.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### To communicate with you
+
+To send you updates, marketing communications, and other information that may be of interest to you.
+
+### To comply with legal obligations
+
+To comply with legal obligations, resolve disputes, and enforce our agreements.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Sharing Your Information
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+We may share your information with third parties in the following situations:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+### With service providers
+
+We may share your information with third-party vendors, service providers, contractors, or agents who perform services for us or on our behalf.
+
+### For legal reasons
+
+We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+
+### With your consent
+
+We may disclose your information for any other purpose with your consent.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## Security of Your Information
+
+We use administrative, technical and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other types of misuse.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Your Privacy Rights
+
+Depending on your location, you may have the following rights regarding your personal data:
+
+### Access
+
+You can request a copy of the personal data we hold about you.
+
+### Correction
+
+You can request that we correct any inaccuracies in your personal data.
+
+### Deletion
+
+You can request that we delete your personal data.
+
+<br>
+To exercise any of these rights, please contact us at the information provided below.
+
+<br>
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+<br>
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at **hi@hellohendrix.app**
+
+Thank you for using Hello Hendrix!
