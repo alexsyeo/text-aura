@@ -9,7 +9,7 @@ May 29 2024
 
 # Privacy Policy
 
-Welcome to Hello Hendrix! Your privacy is critically important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the “App”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
+Your privacy is critically important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the “App”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
 
 ## Information We Collect
 
@@ -94,4 +94,5 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at **hi@hellohendrix.app**
 
+<br>
 Thank you for using Hello Hendrix!
