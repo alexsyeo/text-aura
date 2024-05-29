@@ -96,3 +96,4 @@ If you have any questions about this Privacy Policy, please contact us at **hi@h
 
 <br>
 Thank you for using Hello Hendrix!
+<br>

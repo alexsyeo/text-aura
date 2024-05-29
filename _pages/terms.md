@@ -65,3 +65,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 <br>
 Thank you for using Hello Hendrix!
+<br>
