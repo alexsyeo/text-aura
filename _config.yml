@@ -75,7 +75,7 @@ topbar_title_color: "#fcfcfc"
 
 cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
 cover_overlay_color: "#191919"
-cover_overlay_transparency: 0.5
+cover_overlay_transparency: 0.8
 
 device_color: black # Set to: blue, black, yellow, coral or white.
 
