@@ -6,7 +6,7 @@ include_in_header: true
 
 # About
 
-![Image Alt Text](../assets/me.jpg)
+![Image Alt Text](../assets/me.jpg){: width="150px"}
 
 Hello, my name is Alex and I'm the developer behind Hello Hendrix. Thank you for checking out the app! Below you can find more info on the app's origins and mission, as well as how you can get involved in improving it.
 
