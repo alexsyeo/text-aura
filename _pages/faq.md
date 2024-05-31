@@ -10,9 +10,13 @@ Frequently Asked Questions
 
 <br>
 
-## **How do you translate English into Korean?**
+## **What if I'm stuck during a conversation?**
 
-Just tap Hendrix while he isn't talking or thinking and type what you want him to translate.
+**You can ask Hendrix for a translation**: just tap Hendrix while he isn't talking or thinking, which should open a text bubble to his right, then type what you want him to translate, and he will give you the translation as well as the Korean pronunciation.
+
+<br>
+
+Alternatively, you can also **switch to the vocab list tab (the middle tab)** and see if anything matches what you're trying to say (these come pre-populated with many relevant words and phrases, so often times what you want will be there!). You can even switch to this tab while you're recording your audio, which lets you read what you're trying to say as you say it.
 
 ## **How do you translate using different variations of a word/phrase?**
 
