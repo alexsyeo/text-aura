@@ -10,7 +10,7 @@ Frequently Asked Questions
 
 <br>
 
-## **How do you request a translation?**
+## **How do you translate English into Korean?**
 
 Just tap Hendrix while he isn't talking or thinking and type what you want him to translate.
 
