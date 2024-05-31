@@ -12,7 +12,7 @@ Frequently Asked Questions
 
 ## **What if I'm stuck during a conversation?**
 
-**You can ask Hendrix for a translation**: just tap Hendrix while he isn't talking or thinking, which should open a text bubble to his right, then type what you want him to translate, and he will give you the translation as well as the Korean pronunciation.
+**You can ask Hendrix for a translation**: just tap Hendrix while he isn't talking or thinking, which should open a text bubble to his right, then type what you want him to translate, and he will give you the translation as well as the Korean pronunciation. Note that this will also automatically generate a flashcard for whatever text (and translation) you translate.
 
 <br>
 
