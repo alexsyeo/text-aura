@@ -27,6 +27,7 @@ I am always looking for feedback to make Hello Hendrix better. Your suggestions 
 <br>
 
 **Thank you for choosing Hello Hendrix, and happy learning!**
+
 **-Alex**
 
 <br>
