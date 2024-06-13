@@ -9,6 +9,11 @@ include_in_header: true
 Frequently Asked Questions
 <br>
 
+## **How do I know if the translations are accurate?**
+
+The latest AI models which are used by Hello Hendrix are generally very good at producing accurate translations. To be extra safe, all of our pre-made content, including vocabulary lists/flashcards, storybooks, and initial conversation messages is manually reviewed by native speakers to ensure that it is as natural-sounding as possible.
+<br>
+
 ## **What if I'm stuck during a conversation?**
 
 **You can ask Hendrix for a translation**: just tap Hendrix while he isn't talking or thinking, which should open a text bubble to his right, then type what you want him to translate, and he will give you the translation as well as the Korean pronunciation. Note that this will also automatically generate a flashcard for whatever text (and translation) you translate.
