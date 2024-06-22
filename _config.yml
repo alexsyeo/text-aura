@@ -52,13 +52,13 @@ features:
       description: Realistic voices that resemble native speakers.
       fontawesome_icon_name: volume-up
 
-    - title: Premade Flashcards
-      description: Hundreds of premade flashcards across all modules so you can learn the essential vocabulary for each topic.
+    - title: Premade and Auto-Generated Flashcards
+      description: Hundreds of premade flashcards across all modules so you can learn the essential vocabulary for each topic. Auto-generated flashcards based on real time feedback and translations.
       fontawesome_icon_name: list
 
-    - title: Automatic Flashcard Generation
-      description: Automatically-generated flashcards based on real time feedback and translations.
-      fontawesome_icon_name: magic
+    - title: Engaging Exercises
+      description: Exercises to help you to learn vocabulary and refine your pronunciation.
+      fontawesome_icon_name: dumbbell
 
     - title: Direct Communication Line with Developer
       description: Direct communication line with the developer to request support, provide feedback, and more.
