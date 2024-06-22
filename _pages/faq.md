@@ -23,3 +23,5 @@ You can specify directly in the translation text if you want a particular variat
 
 If you feel anything is missing (in terms of content, features, etc.) or have any other feedback, you can always reach out via email at **hi@talkling.app**! The "Contact the Developer" button in the Account tab is a shortcut for this.
 <br>
+<br>
+<br>
