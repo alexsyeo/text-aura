@@ -92,8 +92,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at **hi@hellohendrix.app**
+If you have any questions about this Privacy Policy, please contact us at **hi@lexsensei.com**
 
 <br>
-Thank you for using Hello Hendrix!
+Thank you for using Lex Sensei!
 <br>
