@@ -18,7 +18,7 @@ During my travels in Asia, I observed that, despite being proficient in reading 
 
 Lex Sensei's mission is to bridge the gap between traditional language learning and conversational fluency. Existing langauge learning apps often fall short in this area, leaving learners with a gap in their ability to communicate naturally. Lex Sensei was born out of the need for a solution that goes beyond rote memorization and grammar drills, focusing instead on practical, real-life conversations.
 
-Leveraging cutting-edge AI, Lex Sensei provides a seamless and interactive experience to help you improve your Korean speaking skills in real-life scenarios. Whether you’re a beginner or looking to refine your conversational abilities, the app is designed to meet you where you are and take you to the next level.
+Leveraging cutting-edge AI, Lex Sensei provides a seamless and interactive experience to help you improve your language speaking skills in real-life scenarios. Whether you’re a beginner or looking to refine your conversational abilities, the app is designed to meet you where you are and take you to the next level.
 
 ## Get Involved
 

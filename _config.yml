@@ -49,7 +49,7 @@ features:
       fontawesome_icon_name: language
 
     - title: Realistic Voices
-      description: Realistic voices that resemble native Korean speakers.
+      description: Realistic voices that resemble native speakers.
       fontawesome_icon_name: volume-up
 
     - title: Premade Flashcards
