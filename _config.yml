@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Talkling # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: The conversational language learning app.
+app_description: The app for conversational language learning.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,8 +36,8 @@ features:
       description: Try out the app for free with no limitations for 7 days.
       fontawesome_icon_name: play-circle
 
-    - title: Simulate Conversations
-      description: Realistic conversations spanning hundreds of scenarios and topics.
+    - title: Have actual Conversations
+      description: Have actual conversations spanning hundreds of scenarios and topics.
       fontawesome_icon_name: comments
 
     - title: Real Time Feedback
