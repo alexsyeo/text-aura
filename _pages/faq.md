@@ -11,7 +11,7 @@ Frequently Asked Questions
 
 ## **How do I know if the translations are accurate?**
 
-The latest AI models which are used by Talkling are generally very good at producing accurate translations. To be extra safe, all of our pre-made content, including vocabulary lists/flashcards, storybooks, and initial conversation messages is manually reviewed by native speakers to ensure that it is as natural-sounding as possible.
+The latest AI models which are used by Talkling are generally very good at producing accurate translations. To be extra safe, all of our pre-made content, including vocabulary lists/flashcards, storybooks, and initial conversation messages is manually translated by native speakers to ensure that it is as natural-sounding as possible.
 <br>
 
 ## **How do you translate using different variations of a word/phrase?**
