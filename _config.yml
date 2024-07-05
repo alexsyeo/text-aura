@@ -1,5 +1,5 @@
 #page title
-page_title: Talkling # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Lingopeel AI # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: 6499281148 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link:
     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: Talkling # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: Lingopeel AI # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: The app for conversational language learning.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 your_name: Alex Yeo
 # your_link: https://emilbaehr.com
 # your_city: Copenhagen
-email_address: hi@talkling.app
+email_address: hi@lingopeel.com
 # facebook_username:
 # instagram_username: alexsyeo
 linkedin_username: alexsyeo
@@ -32,10 +32,6 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: Free Trial
-      description: Try out the app for free with no limitations for 7 days.
-      fontawesome_icon_name: play-circle
-
     - title: Have actual Conversations
       description: Have actual conversations spanning hundreds of scenarios and topics.
       fontawesome_icon_name: comments
