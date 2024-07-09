@@ -87,8 +87,15 @@
                             {% endif %}
                         </div>
                     </div>
-                    {% include features.html %} {% include footer.html %} {%
-                    include appstoreimages.html %}
+                    <div
+                        style="
+                            background-image: url('../assets/headerimage.png');
+                        "
+                    >
+                        {% include features.html %} {% include footer.html %}
+                    </div>
+
+                    {% include appstoreimages.html %}
                 </div>
             </div>
         </div>
