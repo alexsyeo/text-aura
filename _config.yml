@@ -84,7 +84,7 @@ app_title_color: "#fcfcfc"
 app_price_color: "#fcfcfc"
 app_description_color: "#fcfcfc"
 
-feature_title_color: "#fcfcfc"
+feature_title_color: "#191919"
 feature_text_color: "#191919"
 
 feature_icons_foreground_color: "#fcfcfc"
