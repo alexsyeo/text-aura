@@ -260,6 +260,8 @@ nav > ul li a:active {
 
 .appName {
     color: $app-title-color;
+    font-family: $font-title;
+    font-size: 5rem;
 }
 
 .appPrice {
