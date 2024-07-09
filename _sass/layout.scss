@@ -103,8 +103,9 @@ header {
     color: $header-title-color;
     white-space: nowrap;
     display: flex;
-    font-weight: bold;
+    // font-weight: bold;
     margin-left: 15px;
+    font-family: $font-title;
 }
 
 @media only screen and (max-width: 768px) {
