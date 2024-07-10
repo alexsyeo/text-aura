@@ -274,10 +274,10 @@ nav > ul li a:active {
     }
 }
 
-// .appIconShadow {
-//     display: flex;
-//     filter: $drop-shadow;
-// }
+.appIconShadow {
+    display: flex;
+    filter: $drop-shadow;
+}
 
 .appIconLarge {
     width: 120px;
