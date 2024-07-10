@@ -274,17 +274,18 @@ nav > ul li a:active {
     }
 }
 
-.appIconShadow {
-    display: flex;
-    filter: $drop-shadow;
-}
+// .appIconShadow {
+//     display: flex;
+//     filter: $drop-shadow;
+// }
 
 .appIconLarge {
     width: 120px;
     height: 120px;
     -webkit-clip-path: url(#shape120);
     clip-path: url(#shape120);
-    // border: $app-icon-border;
+    border: $app-icon-border;
+    border-radius: 30px;
     // box-shadow: $drop-shadow;
 }
 
@@ -294,13 +295,14 @@ nav > ul li a:active {
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    margin-left: 15px;
+    margin-left: 25px;
 }
 
 .appName {
     color: $app-title-color;
     font-family: $font-title;
-    font-size: 5rem;
+    font-size: 6rem;
+    font-weight: 400;
 }
 
 .appPrice {
