@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Lingopeel AI # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Conversational language tutoring
+app_description: The conversational language tutoring app.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -81,12 +81,12 @@ body_background_color: "#ffef61"
 
 link_color: "#0661ff"
 
-app_title_color: "#fcfcfc"
-app_price_color: "#fcfcfc"
-app_description_color: "#fcfcfc"
-# app_title_color: "#191919"
-# app_price_color: "#191919"
-# app_description_color: "#191919"
+# app_title_color: "#fcfcfc"
+# app_price_color: "#fcfcfc"
+# app_description_color: "#fcfcfc"
+app_title_color: "#191919"
+app_price_color: "#191919"
+app_description_color: "#191919"
 
 feature_title_color: "#191919"
 feature_text_color: "#191919"

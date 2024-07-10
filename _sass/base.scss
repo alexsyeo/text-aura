@@ -71,8 +71,13 @@ a:active {
 // Shadows
 // $drop-shadow: drop-shadow(0px 5px 10px rgba(#000, 0.1))
 //     drop-shadow(0px 1px 1px rgba(#000, 0.2));
-$drop-shadow: drop-shadow(0px 5px 15px rgba(#000, 0.1))
-    drop-shadow(0px 1px 3px rgba(#000, 0.4));
+// $drop-shadow: drop-shadow(0px 5px 15px rgba(#000, 0.1))
+//     drop-shadow(0px 1px 3px rgba(#000, 0.4));
+$drop-shadow: 0 0 0 2px black,
+    /* This creates the black border */ 0px 5px 15px rgba(#000, 0.1),
+    0px 1px 3px rgba(#000, 0.4);
+
+$app-icon-border: 1px solid #191919;
 
 // Various resets
 *,
