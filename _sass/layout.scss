@@ -11,22 +11,43 @@
     background-size: cover;
     background-position: center;
     border-radius: 0px 0px 40px 40px;
+    background-size: 100% auto;
 }
 
 .imageWrapper2 {
-    // Sets the background image in the header area
-    height: 714px;
-    background: linear-gradient(
-            rgba($image-overlay-color, $image-overlay-transparency),
-            rgba($image-overlay-color, $image-overlay-transparency)
-        ),
-        url($header-image);
-
-    background-repeat: no-repeat;
+    position: relative;
+    min-height: 714px;
+    background: url($header-image) repeat-y center center;
     background-size: cover;
-    background-position: top;
     border-radius: 0px 0px 40px 40px;
 }
+
+// .imageWrapper2::before {
+//     content: "";
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     background: rgba($image-overlay-color, $image-overlay-transparency);
+//     border-radius: inherit;
+//     z-index: 1;
+// }
+
+// .imageWrapper2 {
+//     // Sets the background image in the header area
+//     height: 714px;
+//     background: linear-gradient(
+//             rgba($image-overlay-color, $image-overlay-transparency),
+//             rgba($image-overlay-color, $image-overlay-transparency)
+//         ),
+//         url($header-image);
+
+//     background-repeat: no-repeat;
+//     background-size: cover;
+//     background-position: top;
+//     border-radius: 0px 0px 40px 40px;
+// }
 
 .headerBackground {
     height: 115px;
