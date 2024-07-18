@@ -57,6 +57,10 @@ features:
       description: Exercises to help you to learn vocabulary and refine your pronunciation.
       fontawesome_icon_name: dumbbell
 
+    - title: English, French, Korean and more
+      description: Choose from English, French, Korean, Spanish, Japanese, Chinese, Portuguese, Italian, and German. More languages coming soon!
+      fontawesome_icon_name: globe
+
     - title: Direct Communication Line with Developer
       description: Direct communication line with the developer to request support, provide feedback, and more.
       fontawesome_icon_name: envelope
