@@ -33,9 +33,13 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: Have actual Conversations
-      description: Have actual conversations spanning hundreds of scenarios and topics.
+    - title: From Basics to Real-Life Conversations
+      description: Designed for learners who know the basics, it eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
       fontawesome_icon_name: comments
+
+    - title: Hundreds of Scenarios and Topics
+      description: Have conversations spanning hundreds of practical scenarios and topics.
+      fontawesome_icon_name: check
 
     - title: Real Time Feedback
       description: Real time feedback with useful explanations and suggestions, covering grammar, vocabulary, and more.
@@ -44,10 +48,6 @@ features:
     - title: On-Demand Translations
       description: Immediate translations for any word or phrase with audio pronunciation.
       fontawesome_icon_name: language
-
-    - title: Realistic Voices
-      description: Realistic voices that resemble native speakers.
-      fontawesome_icon_name: volume-up
 
     - title: Premade and Auto-Generated Flashcards
       description: Hundreds of premade flashcards across all modules so you can learn the essential vocabulary for each topic. Auto-generated flashcards based on real time feedback and translations.
