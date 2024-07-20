@@ -34,7 +34,7 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
     - title: From Basics to Real-Life Conversations
-      description: Designed for learners who know the basics, it eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
+      description: Designed for learners who know the basics, Lingopeel AI eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
       fontawesome_icon_name: comments
 
     - title: Hundreds of Scenarios and Topics
