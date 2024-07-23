@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 29 2024
+July 23 2024
 
 # Privacy Policy
 
@@ -95,7 +95,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us at **hi@lingopeel.com**.
 
 <br>
-Thank you for using Lingopeel AI!
+Thank you for using Lingopeel!
 <br>
 <br>
 <br>

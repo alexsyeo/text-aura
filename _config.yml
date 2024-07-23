@@ -1,5 +1,5 @@
 #page title
-page_title: Lingopeel AI # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Lingopeel # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: 6499281148 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link:
     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: Lingopeel AI # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: Lingopeel # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: The conversational language learning app.
 
@@ -34,7 +34,7 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
     - title: From Basics to Real-Life Conversations
-      description: Designed for learners who know the basics, Lingopeel AI eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
+      description: Designed for learners who know the basics, Lingopeel eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
       fontawesome_icon_name: comments
 
     - title: Hundreds of Scenarios and Topics
