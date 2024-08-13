@@ -38,7 +38,7 @@ features:
       fontawesome_icon_name: comments
 
     - title: Hundreds of Scenarios and Topics
-      description: Have conversations spanning hundreds of practical scenarios and topics.
+      description: Have conversations spanning hundreds of practical scenarios and topics, plus the ability to create custom scenarios based on whatever topic you want!
       fontawesome_icon_name: check
 
     - title: Real Time Feedback
@@ -54,7 +54,7 @@ features:
       fontawesome_icon_name: list
 
     - title: Engaging Exercises
-      description: Exercises to help you to learn vocabulary and refine your pronunciation.
+      description: Exercises to help you to learn vocabulary, use them in sentences, and practice in realistic situations.
       fontawesome_icon_name: dumbbell
 
     - title: English, French, Korean and more
