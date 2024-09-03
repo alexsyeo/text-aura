@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Lingopeel # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: The conversational language learning app.
+app_description: The language app for intermediate learners.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,32 +37,32 @@ features:
       description: Designed for learners who know the basics, Lingopeel eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
       fontawesome_icon_name: comments
 
-    - title: Hundreds of Scenarios and Topics
-      description: Have conversations spanning hundreds of practical scenarios and topics, plus the ability to create custom scenarios based on whatever topic you want!
+    - title: Endless Topics to Master
+      description: Have conversations spanning endless scenario recommendations, and create your own scenarios on whatever topic you want!
       fontawesome_icon_name: check
 
     - title: Real Time Feedback
-      description: Real time feedback with useful explanations and suggestions, covering grammar, vocabulary, and more.
+      description: Receive real time feedback with useful explanations, covering grammar, vocabulary, and more.
       fontawesome_icon_name: info-circle
 
-    - title: On-Demand Translations
-      description: Immediate translations for any word or phrase with audio pronunciation.
-      fontawesome_icon_name: language
-
-    - title: Premade and Auto-Generated Flashcards
-      description: Hundreds of premade flashcards across all modules so you can learn the essential vocabulary for each topic. Auto-generated flashcards based on real time feedback and translations.
+    - title: Expand Your Vocabulary
+      description: Discover essential vocabulary through your conversations, growing your personal vocabulary bank over time.
       fontawesome_icon_name: list
 
-    - title: Engaging Exercises
-      description: Exercises to help you to learn vocabulary, use them in sentences, and practice in realistic situations.
+    - title: Dynamic Vocabulary Review
+      description: Our vocabulary review feature dynamically selects the vocabulary you need to review based on your mastery of each word.
+      fontawesome_icon_name: bolt
+
+    - title: Fun Vocabulary Exercises
+      description: Review vocabulary through fun exercises designed to improve your retention, listening and pronunciation.
       fontawesome_icon_name: dumbbell
 
-    - title: English, French, Korean and more
+    - title: Korean, French, English, and more
       description: Choose from English, French, Korean, Spanish, Japanese, Chinese, Portuguese, Italian, and German. More languages coming soon!
       fontawesome_icon_name: globe
 
     - title: Direct Communication Line with Developer
-      description: Direct communication line with the developer to request support, provide feedback, and more.
+      description: Direct communication line with the developer via email and Discord to request support, provide feedback, and more.
       fontawesome_icon_name: envelope
 
     - title: Continuous Updates
