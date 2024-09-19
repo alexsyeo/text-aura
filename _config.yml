@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Lingopeel # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: The language app for intermediate learners.
+app_description: Speak and learn Korean.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -49,16 +49,16 @@ features:
       description: Discover essential vocabulary through your conversations, growing your personal vocabulary bank over time.
       fontawesome_icon_name: list
 
-    - title: Dynamic Vocabulary Review
-      description: Our vocabulary review feature dynamically selects the vocabulary you need to review based on your mastery of each word.
+    - title: Spaced Repetition
+      description: Our vocabulary review dynamically selects the vocabulary you need to review based on your mastery of each word.
       fontawesome_icon_name: bolt
 
     - title: Fun Vocabulary Exercises
       description: Review vocabulary through fun exercises designed to improve your retention, listening and pronunciation.
       fontawesome_icon_name: dumbbell
 
-    - title: Korean, French, English, and more
-      description: Choose from English, French, Korean, Spanish, Japanese, Chinese, Portuguese, Italian, and German. More languages coming soon!
+    - title: Supporting various native languages
+      description: Choose from English, French, Spanish, and German as your native language.
       fontawesome_icon_name: globe
 
     - title: Direct Communication Line with Developer
