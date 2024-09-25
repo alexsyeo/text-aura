@@ -81,17 +81,17 @@ cover_overlay_transparency: 1.0
 device_color: black # Set to: blue, black, yellow, coral or white.
 
 # body_background_color: "#f7ea77"
-body_background_color: "#ffef61"
+body_background_color: "#b18058"
 # body_background_color: "#74c67b"
 
 link_color: "#0661ff"
 
-# app_title_color: "#fcfcfc"
-# app_price_color: "#fcfcfc"
-# app_description_color: "#fcfcfc"
-app_title_color: "#191919"
-app_price_color: "#191919"
-app_description_color: "#191919"
+app_title_color: "#fcfcfc"
+app_price_color: "#fcfcfc"
+app_description_color: "#fcfcfc"
+# app_title_color: "#191919"
+# app_price_color: "#191919"
+# app_description_color: "#191919"
 
 feature_title_color: "#191919"
 feature_text_color: "#191919"

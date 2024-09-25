@@ -28,11 +28,11 @@
     </div>
     <nav class="scroll">
         <ul>
-            <li>
+            <!-- <li>
                 <a href="https://discord.gg/DPbH6qexbe" target="_blank"
                     >Discord</a
                 >
-            </li>
+            </li> -->
             {% for page in site.pages %} {% if page.include_in_header == true %}
             <li>
                 <a href="{{ page.url | relative_url }}" target="_self"
