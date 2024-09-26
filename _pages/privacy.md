@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 23 2024
+September 26 2024
 
 # Privacy Policy
 
@@ -15,17 +15,9 @@ Your privacy is critically important to us. This Privacy Policy explains how we 
 
 We may collect information about you in a variety of ways. The information we may collect via the App includes:
 
-### Personal Data
-
-Personally identifiable information, such as your name, email address, and other information that you voluntarily give to us when you register or use the App.
-
 ### Usage Data
 
 Information automatically collected when you access the App, such as your IP address, browser type, operating system, access times, and the actions you take while using the app.
-
-### Device Information
-
-Information about your mobile device, such as the device ID, model, and manufacturer, and information about the location of your device.
 
 ## How We Use Your Information
 
@@ -71,10 +63,6 @@ We use administrative, technical and physical security measures to help protect 
 
 Depending on your location, you may have the following rights regarding your personal data:
 
-### Access
-
-You can request a copy of the personal data we hold about you.
-
 ### Correction
 
 You can request that we correct any inaccuracies in your personal data.
@@ -92,10 +80,10 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at **hi@lingopeel.com**.
+If you have any questions about this Privacy Policy, please contact us at **alexsyeo@gmail.com**.
 
 <br>
-Thank you for using Lingopeel!
+Thank you for using Scripture Connect!
 <br>
 <br>
 <br>
