@@ -33,41 +33,17 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: From Basics to Real-Life Conversations
-      description: Designed for learners who know the basics, Lingopeel eliminates the need for costly tutors, travel, and multiple resources, offering an effective, time-efficient, and affordable path to conversational fluency.
+    - title: Free Bible Chat
+      description: Have unlimited, free chats about the Bible. Ask questions, get insights, and discover verses.
       fontawesome_icon_name: comments
 
-    - title: Endless Topics to Master
-      description: Have conversations spanning endless scenario recommendations, and create your own scenarios on whatever topic you want!
-      fontawesome_icon_name: check
-
-    - title: Real Time Feedback
-      description: Receive real time feedback with useful explanations, covering grammar, vocabulary, and more.
-      fontawesome_icon_name: info-circle
-
-    - title: Expand Your Vocabulary
-      description: Discover essential vocabulary through your conversations, growing your personal vocabulary bank over time.
-      fontawesome_icon_name: list
-
-    - title: Spaced Repetition
-      description: Our vocabulary review dynamically selects the vocabulary you need to review based on your mastery of each word.
-      fontawesome_icon_name: bolt
-
-    - title: Fun Vocabulary Exercises
-      description: Review vocabulary through fun exercises designed to improve your retention, listening and pronunciation.
-      fontawesome_icon_name: dumbbell
-
-    - title: Supporting various native languages
-      description: Choose from English, French, Spanish, and German as your native language.
-      fontawesome_icon_name: globe
+    - title: KJV Bible
+      description: Read the King James Version of the Bible.
+      fontawesome_icon_name: bible
 
     - title: Direct Communication Line with Developer
-      description: Direct communication line with the developer via email and Discord to request support, provide feedback, and more.
+      description: Direct communication line with the developer via email to request support, provide feedback, and more.
       fontawesome_icon_name: envelope
-
-    - title: Continuous Updates
-      description: Continuous updates with new content, features, and improvements.
-      fontawesome_icon_name: download
 
 # Theme Settings
 topbar_color: "#191919"
