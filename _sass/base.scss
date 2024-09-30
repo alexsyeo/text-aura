@@ -1,13 +1,11 @@
-@import "https://fonts.googleapis.com/css?family=Noto+Sans:700|Lilita+One";
-
 // Layout and grids
 $content-width: 1170px;
 
 // Fonts and sizes
 // $font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$font: "Noto Sans", "Helvetica Neue", sans-serif;
-$font-title: "Lilita One", "Noto Sans", "Helvetica Neue", sans-serif;
-$font-weight: 700;
+$font: "Arial", "Helvetica Neue", sans-serif;
+$font-title: "Arial", "Helvetica Neue", sans-serif;
+$font-weight: 500;
 $primary-text-color: #000000;
 
 html {
