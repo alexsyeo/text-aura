@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: TextAura # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Your AI Texting Assistant.
+app_description: Your FREE AI Texting Assistant.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,8 +33,8 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: AI Texting Assistant
-      description: Upload an image of your chat, and TextAura will generate sample responses for you based on your selected texting style.
+    - title: FREE AI Texting Assistant
+      description: Upload an image of your chat, and TextAura will generate sample responses for you based on your selected texting style. The best part? It's completely free! No hidden fees or subscriptions. No account creation. No ads.
       fontawesome_icon_name: comments
 
     - title: Various Texting Styles to Choose From
