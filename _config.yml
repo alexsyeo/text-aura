@@ -1,5 +1,5 @@
 #page title
-page_title: Scripture Connect # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: TextAura # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: 6717577481 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,9 +12,9 @@ presskit_download_link:
     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: Scripture Connect # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: TextAura # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Free Bible Chat.
+app_description: Your AI Texting Assistant.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,13 +33,13 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-    - title: Free Bible Chat
-      description: Have unlimited, free chats about the Bible. Ask questions, get insights, and discover verses.
+    - title: AI Texting Assistant
+      description: Upload an image of your chat, and TextAura will generate sample responses for you based on your selected texting style.
       fontawesome_icon_name: comments
 
-    - title: KJV Bible
-      description: Read the King James Version of the Bible.
-      fontawesome_icon_name: bible
+    - title: Various Texting Styles to Choose From
+      description: Choose from a variety of texting styles, including flirty, professional, and more.
+      fontawesome_icon_name: list
 
     - title: Direct Communication Line with Developer
       description: Direct communication line with the developer via email to request support, provide feedback, and more.

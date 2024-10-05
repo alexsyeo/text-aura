@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 26 2024
+October 5 2024
 
 # Privacy Policy
 
